@@ -14,6 +14,9 @@
     "env": {
       "GOSUMDB": "sum.golang.org"
     },
+    "repositories": [
+        "nicolasbender/nodejs"
+    ],
     "packageRules": [
       {
         "groupName": "all non-major Go dependencies",
